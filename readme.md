@@ -1,6 +1,7 @@
 # Ruby's Java assignment
 
-112.2【資管系】MI4204302 物件導向程式語言
+112.2【資管系】 MI4204302 物件導向程式語言
+
 吳幸儒 B11209002
 
 <details>
@@ -88,7 +89,7 @@ class ParseUrl {
 class ParseTest {
      public static void main(String args[]) {
           ParseUrl parser = new ParseUrl();
-          parser.parse(“https://moodle.ntust.edu.tw/course/view.php?id=19803”);
+          parser.parse("https://moodle.ntust.edu.tw/course/view.php?id=19803");
           System.out.println(parser);
     }
 }
@@ -187,6 +188,11 @@ static double cosine(double x[], double y[]);
 - 核心邏輯: /src/Model/VectorCalculator.java
 - 測試範例(測試程式): /src/Homework3.java
 
+### 心得
+
+<img src="./src/Images/surprise.jpg" alt="Gruandal's avatar" style="width: 200px;" />
+是數學！！
+
 </details>
 
 <details>
@@ -267,4 +273,10 @@ boolean isEvening()
 - Afternoon: 12 ~ 18
 - Evening: 18 ~ 20
 - Noon: 12:00:00 ~ 12:00:00
+
+### 心得
+
+<img src="./src/Images/shock.jpg" alt="Gruandal's shock" style="width: 200px;" />
+第一個作業就這麼重口味...
 </details>
+
