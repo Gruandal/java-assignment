@@ -17,7 +17,7 @@
 
 備註: junit 版本為 4.13.1，對應的 jar 檔案已經放在 /lib 資料夾下
 
-![](./src/Images/截圖%202024-04-15%20下午7.47.40.png)
+![testResult](./src/Images/截圖%202024-04-15%20下午7.47.40.png)
 
 
 ## Homework6
@@ -42,7 +42,7 @@
 
 備註: junit 版本為 4.13.1，對應的 jar 檔案已經放在 /lib 資料夾下
 
-![](./src/Images/截圖%202024-03-25%20下午11.34.39.png)
+![testResult](./src/Images/截圖%202024-03-25%20下午11.34.39.png)
 
 ### 程式資料
 - Access Point: /src/Homework4.java
@@ -85,6 +85,6 @@
 - Evening: 18 ~ 20
 - Noon: 12:00:00 ~ 12:00:00
 
-
-
-
+<style>
+img[alt=testResult] { max-width: 400px; }
+</style>
