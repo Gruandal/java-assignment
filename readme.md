@@ -227,6 +227,9 @@ static double cosine(double x[], double y[]);
 分數介於60-69人數：OO人
 分數介於0-59人數：OO人
 ```
+
+<img src="./src/Images/mewo.jpg" alt="Gruandal's mewo" style="width: 100px;" />
+喵！這週懶得寫啦，自己去翻吧。
 </details>
 
 <details>
@@ -276,7 +279,7 @@ boolean isEvening()
 
 ### 心得
 
-<img src="./src/Images/shock.jpg" alt="Gruandal's shock" style="width: 200px;" />
+<img src="./src/Images/shock.jpg" alt="Gruandal's shock" style="width: 150px;" />
 第一個作業就這麼重口味...
 </details>
 
